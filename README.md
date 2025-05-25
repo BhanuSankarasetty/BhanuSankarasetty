@@ -272,3 +272,130 @@ BhanuSankarasetty/BhanuSankarasetty is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
+<!-- Title and Greeting -->
+<h1 align="center">👋 Hi, I'm <b>Bhanu Sankarasetty</b></h1>
+<p align="center"><i>Crafting code for impact, solving problems with purpose.</i></p>
+
+---
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/bhanu-sankarasetty" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Bhanu_Murari/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:sankarasettybhanu@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/BhanuSankarasetty" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- About Me -->
+## 🚀 About Me  
+- 👨‍🎓 B.Tech CSE @ LPU | Diploma in Mining Engineering (GIET University)  
+- 🥇 Academic Gold Medalist | Competitive Coder & Problem Solver  
+- 🌏 Based in India 🇮🇳 | Fluent in Telugu, Hindi & English  
+- 💼 Aspiring Software Development Engineer (SDE) & DevOps Enthusiast  
+- ⚡ Tech Stack: `C++`, `Python`, `React.js`, `Node.js`, `MongoDB`, `PostgreSQL`, `Docker`, `AWS`  
+
+---
+
+<!-- Skills -->
+## 🛠️ Skills & Technologies  
+| Programming Languages | Frontend | Backend | DevOps & Tools | Databases | Other |
+| :-------------------: | :------: | :-----: | :------------: | :-------: | :----: |
+| C++, Python, JavaScript | React.js, Tailwind CSS | Node.js, Express.js, REST API, JWT | Docker, Jenkins, Terraform, AWS, Prometheus, Grafana | MongoDB, PostgreSQL | Git, Linux, Agile, System Design |
+
+---
+
+<!-- Projects -->
+## 💻 Featured Projects  
+| Project | Description | Tech Stack | Status |
+| :-----: | :---------: | :--------: | :----: |
+| **Home-Cooked Food Delivery App** | Empowering home chefs to reach customers digitally | React.js, Node.js, MongoDB, Docker | Live & Growing |
+| **Stampede Detection AI System (FYP)** | Real-time crowd analysis & emergency alert system | AI, IoT, OpenCV, Python | Final Year Project |
+| **COVID-19 India Dashboard** | Interactive Tableau Dashboard for pandemic insights | Tableau, Data Visualization | Completed |
+| **DevSecOps CI/CD Pipeline** | Automated, secure deployment pipeline | Jenkins, Terraform, AWS | Coming Soon |
+
+---
+
+<!-- Philosophy -->
+## ✨ Philosophy & Motto  
+> “**Write code as if the next person to maintain it is a violent psychopath who knows where you live.**” — John Woods  
+>
+> *I write code with clarity, efficiency, and impact, aiming to build solutions that empower and endure.*
+
+---
+
+<!-- Competitive Coding -->
+## 🧠 Competitive Coding & Stats  
+<p align="center">
+  <a href="https://leetcode.com/Bhanu_Murari/" target="_blank">
+    <img alt="LeetCode Stats" src="https://leetcode-stats-six.vercel.app/api?username=Bhanu_Murari&theme=dark" width="50%" />
+  </a>
+  <a href="https://github.com/BhanuSankarasetty" target="_blank">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BhanuSankarasetty&show_icons=true&theme=radical&count_private=true" width="45%" />
+  </a>
+</p>
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuSankarasetty&layout=compact&theme=radical" />
+</p>
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BhanuSankarasetty&theme=radical" />
+</p>
+
+---
+
+<!-- Education -->
+## 🎓 Education  
+- **Lovely Professional University (LPU)** — B.Tech in Computer Science Engineering (CSE)  
+- **GIET University** — Diploma in Mining Engineering  
+- 🥇 Gold Medalist in Diploma, strong academic record
+
+---
+
+<!-- Goals -->
+## 🎯 Current Goals  
+- Master **System Design** and **Low-Level Design** concepts  
+- Build scalable **full-stack projects** with best practices  
+- Deep dive into **DevOps & Cloud Infrastructure** (AWS, Kubernetes, Terraform)  
+- Achieve 500+ LeetCode problems solved and contribute to open source  
+- Secure a role as **SDE** in a leading tech company
+
+---
+
+<!-- Contact -->
+## 📫 Let’s Connect  
+- 📧 sankarasettybhanu@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/bhanu-sankarasetty)  
+- 💻 Portfolio: *Coming Soon*  
+
+---
+
+<!-- Fun Facts -->
+## 🎉 Fun Facts  
+- 🧠 Known for fast analytical thinking & problem-solving  
+- ♟ Chess player & Math Olympiad enthusiast  
+- 🎬 Sci-fi & fantasy fan — Interstellar, Harry Potter, Dark, etc.  
+- 🏏 Played cricket, kabaddi, volleyball at school/zonal level  
+
+---
+
+<!-- Footer -->
+---
+
+<p align="center">
+  <i>Thanks for visiting! I’m always excited to collaborate, learn, and build cool stuff together 🚀</i>
+</p>
+
+<!---
+BhanuSankarasetty/BhanuSankarasetty is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+--->
+
+
