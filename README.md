@@ -397,5 +397,103 @@ You can click the Preview link to take a look at your changes.
 <!---
 BhanuSankarasetty/BhanuSankarasetty is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 --->
+# 👋 Hi, I’m Bhanu Sankarasetty!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BhanuSankarasetty-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link-here)  
+[![Gmail](https://img.shields.io/badge/Gmail-bhanusankarasetty@gmail.com-red?style=flat&logo=gmail)](mailto:bhanusankarasetty@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-username/)
+
+---
+
+## About Me
+I’m a passionate problem solver and software developer, actively building **real-world impactful tech** to improve society. Currently, I’m deepening my skills in backend development, DevOps, and scalable system design while tackling advanced DSA challenges.
+
+- 💡 **Interests:**  
+  - Building AI-powered & scalable systems (e.g., stampede detection with ML/IoT)  
+  - Mastering Data Structures & Algorithms (300+ LeetCode problems solved)  
+  - Backend & DevOps: Node.js, Express, MongoDB/PostgreSQL, Docker, Jenkins, AWS, Terraform  
+  - Frontend with React, TypeScript, and Tailwind CSS  
+  - Competitive programming & logic puzzles (chess player too!)
+
+- 🌱 **Currently learning:**  
+  - Advanced DevOps toolchain: Kubernetes, Prometheus, Grafana, ELK stack  
+  - System Design & Low-Level Design for scalable apps  
+  - Cloud architecture and CI/CD pipelines  
+
+- 👯 **Open to collaborate on:**  
+  - Open source projects with social impact  
+  - AI-for-society and IoT initiatives  
+  - DevOps automation and backend system design  
+
+- 🎯 **Career goal:**  
+  - Secure a Software Development Engineer role in a top tech company (FAANG/Maanf)  
+  - Grow as a full-stack engineer with strong DevOps skills  
+
+---
+
+## 🚀 Projects Highlights
+
+### DevOps-powered Home-Cooked Food Delivery App
+- **Stack:** React.js + Tailwind + Node.js + Express + MongoDB/PostgreSQL  
+- **Features:** User authentication (JWT), role-based access, chef portfolios, order management, payment integration  
+- **DevOps:** Docker containers, Jenkins pipelines, Terraform infra as code on AWS, monitoring with Prometheus & Grafana  
+- **Impact:** Empowering women chefs with digital entrepreneurship  
+
+### AI-Based Stampede Detection System
+- Real-time video analytics using ML and IoT cameras to predict and alert crowds and emergency services  
+- Objective: Prevent stampede disasters in large public gatherings like Kumbh Mela  
+
+---
+
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BhanuSankarasetty&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BhanuSankarasetty&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuSankarasetty&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [bhanusankarasetty@gmail.com](mailto:bhanusankarasetty@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/your-link-here](https://www.linkedin.com/in/your-link-here)  
+- 🖥️ LeetCode: [leetcode.com/your-leetcode-username](https://leetcode.com/your-leetcode-username)
+
+---
+
+## ⚡ Fun Facts & Philosophy
+
+- 🧠 Chess & logic puzzles help sharpen my analytical thinking  
+- ⚡ Motto: _“Chasing money is to stop chasing for money”_ — I believe in financial freedom and purposeful growth  
+- 🏆 Always aiming to learn, build, and contribute to tech that matters
+
+---
+
+<!---
+BhanuSankarasetty/BhanuSankarasetty
+-->
+
 
 
