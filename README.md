@@ -336,7 +336,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Competitive Coding -->
 ## 🧠 Competitive Coding & Stats  
 <p align="center">
-  <a href="https://leetcode.com/Bhanu_Murari/" target="_blank">
+  <a href="https://leetcode.com/u/BhanuMurari/" target="_blank">
     <img alt="LeetCode Stats" src="https://leetcode-stats-six.vercel.app/api?username=Bhanu_Murari&theme=dark" width="50%" />
   </a>
   <a href="https://github.com/BhanuSankarasetty" target="_blank">
