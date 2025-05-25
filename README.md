@@ -195,4 +195,80 @@ You can click the Preview link to take a look at your changes.
 <!---
 BhanuSankarasetty/BhanuSankarasetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
+# 👋 Hi there, I'm Bhanu Sankarasetty! 
+
+Welcome to my GitHub profile — where ideas turn into impactful code. I'm passionate about software engineering, problem-solving, and building projects that make a difference.
+
+---
+
+<details>
+  <summary>🚀 About Me</summary>
+  
+  - 🎓 B.Tech CSE @ LPU | Diploma in Mining Engineering (GIET University)  
+  - 🥇 Academic Gold Medalist | 🧠 Competitive Thinker  
+  - 💼 Aspiring **SDE | DevOps Engineer** | Problem-Solver  
+  - 📍 Based in India 🇮🇳 | Fluent in Telugu, Hindi, and English  
+  - ⚙️ Tech Stack: `C++`, `Python`, `React.js`, `Node.js`, `MongoDB`, `PostgreSQL`  
+</details>
+
+<details>
+  <summary>💡 Interests</summary>
+  
+  - 🧠 Data Structures and Algorithms  
+  - 🛠 DevOps (Docker, Jenkins, Terraform, AWS, Prometheus)  
+  - 🌐 Full Stack Projects (React + Node)  
+  - 👨‍🍳 Social Impact Apps (e.g., Home Cook Food Delivery, Stampede Detection AI)  
+  - ♟ Chess, 🧩 Math Olympiads, Debating & Reasoning  
+</details>
+
+<details>
+  <summary>📚 Currently Learning</summary>
+
+  - 🛠 Spring Boot & React for enterprise app development  
+  - 📦 Docker, Kubernetes, Jenkins, AWS (DevOps pipeline)  
+  - 📊 System Design & Low-Level Design fundamentals  
+  - 🔐 Advanced Backend Concepts (RBAC, JWT, REST APIs)  
+</details>
+
+<details>
+  <summary>💻 Projects</summary>
+
+  - 🍲 **Home-Cooked Food Delivery App** — Empowering home chefs with digital reach  
+  - 🎥 **Stampede Detection AI System** — Real-time camera-based crowd analysis with alerts to local authorities  
+  - 📈 **COVID-19 Tableau Dashboard (India)** — Data-driven insights with interactive visuals  
+  - 🛡️ **DevSecOps Pipeline for CI/CD** — Automating deployments with security-first approach *(Coming soon)*  
+</details>
+
+<details>
+  <summary>🧠 Competitive Coding</summary>
+
+  - 🟨 **LeetCode**: [Bhanu's Profile →](https://leetcode.com/Bhanu_Murari/) — 300+ problems solved  
+  - 🟩 **GeeksforGeeks**: ~200 points and growing  
+  - 🧮 Strong foundation in logical thinking & optimization  
+</details>
+
+<details>
+  <summary>📫 Connect With Me</summary>
+
+  - 📧 Email: sankarasettybhanu@gmail.com  
+  - 🗈️ LinkedIn: [Bhanu Sankarasetty](https://linkedin.com/in/bhanu-sankarasetty)  
+  - 🌐 Portfolio/Blog: *coming soon...*  
+</details>
+
+<details>
+  <summary>🎯 Fun Facts</summary>
+
+  - 🧠 Can solve complex logic problems quicker than most peers  
+  - 🎩 Loves sci-fi, thrillers, and fantasy (Interstellar, Harry Potter, Dark, etc.)  
+  - 🏏️ Played cricket, kabaddi, volleyball & chess at school/zonal level  
+</details>
+
+---
+
+✨ _"Crafting code for impact, solving problems for purpose."_ — on a journey to build, empower, and lead through technology.
+
+<!---
+BhanuSankarasetty/BhanuSankarasetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
