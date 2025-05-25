@@ -495,5 +495,418 @@ I’m a passionate problem solver and software developer, actively building **re
 BhanuSankarasetty/BhanuSankarasetty
 -->
 
+<!--
+README.md for Sankarasetty Bhanu Murari
+Artistic & Philosophical design with interactive elements, dropdowns, animations, and elegant UI/UX.
+-->
+
+<style>
+  /* === Color Palette & Layout === */
+  :root {
+    --primary-gradient: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+    --bg-light: #f9fafb;
+    --bg-dark: #121212;
+    --text-light: #f5f5f7;
+    --text-dark: #222222;
+    --accent-glow: #2575fc;
+  }
+
+  /* Global body styling to support dark mode and light mode */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0; padding: 0;
+    background: var(--bg-light);
+    color: var(--text-dark);
+    transition: background 0.5s ease, color 0.5s ease;
+  }
+
+  /* Dark mode styles */
+  @media (prefers-color-scheme: dark) {
+    body {
+      background: var(--bg-dark);
+      color: var(--text-light);
+    }
+  }
+
+  /* Container */
+  .container {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem 2rem;
+    line-height: 1.6;
+  }
+
+  /* Header */
+  h1, h2, h3 {
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.4rem;
+  }
+
+  h1 {
+    font-size: 2.8rem;
+    background: var(--primary-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  /* Smooth gradient text */
+  .gradient-text {
+    background: var(--primary-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  /* Paragraph styling */
+  p.intro {
+    font-size: 1.25rem;
+    font-style: italic;
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 2rem auto;
+  }
+
+  /* Animated skill bars container */
+  .skills {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  /* Individual skill bar */
+  .skill {
+    background: rgba(37, 117, 252, 0.1);
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 2px 6px rgba(37,117,252,0.15);
+    position: relative;
+    height: 25px;
+  }
+
+  /* Skill fill animation */
+  .skill-fill {
+    background: var(--primary-gradient);
+    height: 100%;
+    width: 0;
+    border-radius: 20px 0 0 20px;
+    box-shadow: 0 0 10px var(--accent-glow);
+    animation-fill-mode: forwards;
+  }
+
+  /* Skill label */
+  .skill-label {
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-weight: 600;
+    color: white;
+    text-shadow: 0 0 4px rgba(0,0,0,0.7);
+  }
+
+  /* Fade-in animation */
+  @keyframes fadeIn {
+    from {opacity: 0; transform: translateY(15px);}
+    to {opacity: 1; transform: translateY(0);}
+  }
+  .fade-in {
+    animation: fadeIn 1s ease forwards;
+  }
+
+  /* Hover shimmer effect for cards */
+  .card {
+    background: rgba(255,255,255,0.15);
+    border-radius: 12px;
+    padding: 1rem 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 12px rgba(37,117,252,0.15);
+    position: relative;
+    overflow: hidden;
+    cursor: default;
+    transition: box-shadow 0.3s ease;
+  }
+  .card:hover {
+    box-shadow: 0 8px 25px rgba(37,117,252,0.5);
+  }
+  .card::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+      120deg,
+      rgba(255,255,255,0) 30%,
+      rgba(255,255,255,0.25) 50%,
+      rgba(255,255,255,0) 70%
+    );
+    transform: rotate(25deg);
+    pointer-events: none;
+    animation: shimmer 3s infinite;
+  }
+  @keyframes shimmer {
+    0% {transform: translateX(-100%) rotate(25deg);}
+    100% {transform: translateX(100%) rotate(25deg);}
+  }
+
+  /* Real-time stats container */
+  .stats-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  /* Animated counters */
+  .counter {
+    font-weight: 700;
+    font-size: 2rem;
+    color: var(--accent-glow);
+    animation: pulse 2s infinite;
+    display: inline-block;
+  }
+  @keyframes pulse {
+    0%, 100% {transform: scale(1);}
+    50% {transform: scale(1.05);}
+  }
+
+  /* Dropdown styles */
+  details {
+    background: rgba(37,117,252,0.1);
+    border-radius: 10px;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 6px rgba(37,117,252,0.15);
+    cursor: pointer;
+  }
+  details summary {
+    font-weight: 600;
+    list-style: none;
+    outline: none;
+    cursor: pointer;
+  }
+  details summary::-webkit-details-marker {
+    display: none;
+  }
+  details[open] summary::after {
+    content: "▲";
+    float: right;
+  }
+  details summary::after {
+    content: "▼";
+    float: right;
+  }
+
+  /* Smooth scrolling anchors */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Social links with hover scale and glow */
+  .social-links a {
+    display: inline-block;
+    margin: 0 0.75rem;
+    font-size: 1.6rem;
+    color: var(--accent-glow);
+    transition: transform 0.3s ease, text-shadow 0.3s ease;
+  }
+  .social-links a:hover {
+    transform: scale(1.2);
+    text-shadow: 0 0 10px var(--accent-glow);
+  }
+
+  /* Pulse emoji & icon animations */
+  .pulse {
+    display: inline-block;
+    animation: pulse 2.5s infinite ease-in-out;
+  }
+  .bounce {
+    display: inline-block;
+    animation: bounce 1.5s infinite;
+  }
+  @keyframes bounce {
+    0%, 100% {transform: translateY(0);}
+    50% {transform: translateY(-5px);}
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .container {
+      padding: 1rem 1rem;
+    }
+    h1 {
+      font-size: 2rem;
+    }
+  }
+</style>
+
+<div class="container">
+
+<!-- Animated header GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Welcome Animation" width="400" style="border-radius:12px; box-shadow: 0 0 20px #2575fc;"/>
+</p>
+
+<h1>Sankarasetty Bhanu Murari</h1>
+
+<p class="intro">
+  <span class="pulse">🌱</span>  
+  From the seed of curiosity to the towering tree of code,<br>
+  every line crafted is a verse in the poem of progress.<br>
+  With passion as my compass and logic as my wings,<br>
+  I journey through algorithms, weaving impact and elegance.<br>
+  Join me in this symphony of growth, learning, and creation.
+</p>
+
+---
+
+<h2 id="skills" class="gradient-text">🛠 Skills & Mastery</h2>
+<div class="skills" aria-label="Skill proficiency bars">
+
+  <div class="skill" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" aria-label="C++ skill level">
+    <div class="skill-fill" style="animation: fillCpp 2s forwards;"></div>
+    <span class="skill-label">C++</span>
+  </div>
+
+  <div class="skill" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" aria-label="Data Structures and Algorithms skill level">
+    <div class="skill-fill" style="animation: fillDSA 2.2s forwards;"></div>
+    <span class="skill-label">Data Structures & Algorithms</span>
+  </div>
+
+  <div class="skill" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" aria-label="React skill level">
+    <div class="skill-fill" style="animation: fillReact 2.5s forwards;"></div>
+    <span class="skill-label">React.js</span>
+  </div>
+
+  <div class="skill" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" aria-label="Node.js skill level">
+    <div class="skill-fill" style="animation: fillNode 2.7s forwards;"></div>
+    <span class="skill-label">Node.js</span>
+  </div>
+
+</div>
+
+<style>
+  @keyframes fillCpp { to { width: 85%; } }
+  @keyframes fillDSA { to { width: 75%; } }
+  @keyframes fillReact { to { width: 70%; } }
+  @keyframes fillNode { to { width: 65%; } }
+</style>
+
+---
+
+<h2 id="github-stats" class="gradient-text">📊 GitHub Stats & Highlights</h2>
+
+<div class="stats-container" aria-label="GitHub statistics cards">
+
+  <div class="card fade-in" style="animation-delay: 0.2s;">
+    <h3>Contribution Heatmap</h3>
+    <img src="https://ghchart.rshah.org/sankarasetty" alt="GitHub contribution chart for Sankarasetty Bhanu Murari" style="width:100%; border-radius:8px;"/>
+  </div>
+
+  <div class="card fade-in" style="animation-delay: 0.4s;">
+    <h3>Commit Streak</h3>
+    <p><span class="counter" id="commit-streak">45</span> days of continuous coding <span class="pulse">🔥</span></p>
+  </div>
+
+  <div class="card fade-in" style="animation-delay: 0.6s;">
+    <h3>Top Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankarasetty&layout=compact&theme=radical" alt="Top programming languages used" />
+  </div>
+
+  <div class="card fade-in" style="animation-delay: 0.8s;">
+    <h3>Popular Repositories</h3>
+    <ul style="list-style:none; padding-left:0;">
+      <li>• <a href="https://github.com/sankarasetty/project1" target="_blank">Project One</a></li>
+      <li>• <a href="https://github.com/sankarasetty/project2" target="_blank">Project Two</a></li>
+      <li>• <a href="https://github.com/sankarasetty/project3" target="_blank">Project Three</a></li>
+    </ul>
+  </div>
+
+</div>
+
+---
+
+<h2 id="leetcode" class="gradient-text">💡 LeetCode Achievements</h2>
+
+<p>
+  <img src="https://leetcode-stats.vercel.app/api?username=sankarasetty&theme=dark" alt="LeetCode stats for sankarasetty" style="max-width: 100%; border-radius: 12px;"/>
+</p>
+
+<p>
+  Problems Solved: <span class="counter" id="problems-solved">300</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+  Global Rank: <span class="counter" id="leetcode-rank">1024</span> &nbsp;&nbsp;|&nbsp;&nbsp;
+  Achievements: <span class="pulse">⭐️⭐️⭐️</span>
+</p>
+
+---
+
+<h2 id="projects" class="gradient-text">🚀 Project Highlights</h2>
+
+<ul>
+  <li>
+    <details>
+      <summary>📱 <strong>Home Food Delivery App</strong> — Empowering home cooks digitally</summary>
+      <p>
+        Built with React.js and Node.js, featuring secure payment integration, JWT auth, and role-based access.<br>
+        <em>Technical stack:</em> React, Tailwind CSS, Node.js, Express, MongoDB, JWT, REST APIs.<br>
+        <em>Challenges:</em> Balancing UX simplicity with complex role-based access control and order management.<br>
+        <a href="https://github.com/sankarasetty/home-food-delivery" target="_blank">Explore Repo</a>
+      </p>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary>📷 <strong>Stampede Detection AI Camera System</strong> — Real-time safety for crowded spaces</summary>
+      <p>
+        A cutting-edge ML & IoT system predicting stampedes with live video analytics.<br>
+        <em>Technical stack:</em> Python, OpenCV, TensorFlow, Raspberry Pi, AWS.<br>
+        <em>Challenges:</em> Achieving low latency prediction with high accuracy in unpredictable environments.<br>
+        <a href="https://github.com/sankarasetty/stampede-detection" target="_blank">Explore Repo</a>
+      </p>
+    </details>
+  </li>
+</ul>
+
+---
+
+<h2 id="certificates" class="gradient-text">🎓 Certificates & Training</h2>
+
+<details>
+  <summary>Diploma in Mining Engineering - GIET University</summary>
+  <p>Awarded with Gold Medal for Academic Excellence.</p>
+</details>
+
+<details>
+  <summary>DSA Training - LPU</summary>
+  <p>Completed comprehensive Data Structures & Algorithms training with C++ implementations.</p>
+</details>
+
+<details>
+  <summary>Full-Stack Development - Next Wave</summary>
+  <p>Focused on React, Node.js, and deployment strategies including Docker and Terraform.</p>
+</details>
+
+---
+
+<h2 id="connect" class="gradient-text">🌐 Connect with Me</h2>
+
+<p class="social-links" aria-label="Social media links">
+  <a href="https://github.com/sankarasetty" aria-label="GitHub" target="_blank">🐱‍💻</a>
+  <a href="https://linkedin.com/in/sankarasetty" aria-label="LinkedIn" target="_blank">🔗</a>
+  <a href="https://leetcode.com/sankarasetty" aria-label="LeetCode" target="_blank">💡</a>
+  <a href="mailto:sankarasetty@example.com" aria-label="Email">✉️</a>
+</p>
+
+<p style="text-align:center; font-style: italic; margin-top: 3rem; opacity: 0.7;">
+  “The only way to do great work is to love what you do.” <br> — Steve Jobs
+</p>
+
+</div>
+
 
 
