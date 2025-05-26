@@ -67,6 +67,12 @@ I’m a passionate problem solver and software developer, actively building **re
 My journey from Mining Engineering to Code Engineering reflects my hunger to learn, adapt, and serve society with real impact.
 <br>
 <br>
+<br>
+<br>
+
+<br>
+<br>
+
 
 ---
 
