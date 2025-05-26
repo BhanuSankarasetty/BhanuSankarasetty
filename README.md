@@ -236,7 +236,6 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 | **Godavari Institute of Engineering & Technology** | Diploma                      | Rajahmundry, Andhra Pradesh | 2020 – 2023 | 75%          |
 | **Bhavya DAV School**                    | Secondary Education                 | Tangeda, Andhra Pradesh     | 2011 – 2020 | 82%          |
 </details>
-<br>
 
 ---
 
