@@ -27,7 +27,7 @@ Welcome to my GitHub profile — where ideas turn into impactful code. I'm passi
   Join me in this symphony of growth, learning, and creation.
 </p>
 
-<p style = " text-align: center">Passionate about solving problems, building real-world impactful tech, and growing every day 💪</p>
+<p align= "center">Passionate about solving problems, building real-world impactful tech, and growing every day 💪</p>
 <hr>
 
 
