@@ -1,3 +1,4 @@
+<div style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px">
 
 # 👋 Hi, I’m Sankarasetty Bhanu Murari!  
 
@@ -253,4 +254,4 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
   <img src="https://komarev.com/ghpvc/?username=BhanuSankarasetty&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
-
+</div>
