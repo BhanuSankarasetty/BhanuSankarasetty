@@ -123,33 +123,6 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 
 ---
 
-## 🚀 Projects Showcase
-
-
-  <summary><strong>🛡️ Stampede Detection ML System</strong></summary>
-  
-  🔍 **Description:** An AI-powered camera surveillance solution that predicts crowd stampede risks in real-time using object detection and movement vector clustering.
-
-  ⚙️ **Tech Stack:** Python · OpenCV · TensorFlow · Edge IoT · FastAPI · Kafka · Flask UI · Firebase
-  
-  🚨 **Impact:** Sends automated alerts to hospitals & police using location-based APIs to prevent loss of life in crowded areas like Tirupati, Kumbh Mela.
-
-  🔗 [GitHub Repo](https://github.com/BhanuSankarasetty/stampede-detector)
-
-
-
-  <summary><strong>🍱 HomeCooked Food Delivery App</strong></summary>
-
-  🍽️ **Description:** A full-stack platform that connects users with local home chefs. Encourages women entrepreneurship in rural areas.
-
-  ⚙️ **Tech Stack:** React.js · Tailwind CSS · Node.js · Express · MongoDB · JWT · Role-based Auth · Docker · Terraform · Jenkins · AWS
-
-  📦 **DevOps:** CI/CD Pipelines, containerized builds, monitoring with Prometheus + Grafana
-
-  🔗 [GitHub Repo](https://github.com/BhanuSankarasetty/homechef-delivery)
-
----
-
 ## 🧰 Tech Stack
 
 <p align="left">
