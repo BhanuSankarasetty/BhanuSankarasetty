@@ -56,16 +56,17 @@ I build meaningful tech with heart and hands — to empower, to explore, and to 
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 
-## 🧭 About Me
-
+ <summary style="font-size: 37px; font-weight: bold">🧭 About Me</summary>
 I’m Bhanu Murari — a technologist, a thinker, a builder. Born in Guntur, raised with curiosity, I believe in technology's power to heal, solve, and elevate humanity.
 <br>  
 I’m a passionate problem solver and software developer, actively building **real-world impactful tech** to improve society. Currently, I’m deepening my skills in backend development, DevOps, and scalable system design while tackling advanced DSA challenges.
 My journey from Mining Engineering to Code Engineering reflects my hunger to learn, adapt, and serve society with real impact.
+<br>
+<br>
 
 ---
 
@@ -88,6 +89,7 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 ---
 
 <details> <summary style="font-size: 27px; font-weight: bold"> 💡 Interests</summary>
+  
   - 🧠 Mastering Data Structures and Algorithms  
   - 🛠 DevOps (Docker, Jenkins, Terraform, AWS, Prometheus)  
   - 🌐 Full Stack Projects (React + Node)  
@@ -100,6 +102,7 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 ---
 
 <details> <summary style="font-size: 27px; font-weight: bold"> 📚 Currently Learning</summary>
+  
   - 🛠 Spring Boot & React for enterprise app development  
   - 📦 Docker, Kubernetes, Jenkins, AWS (DevOps pipeline)  
   - 📊 System Design & Low-Level Design fundamentals  
