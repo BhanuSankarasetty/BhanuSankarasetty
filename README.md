@@ -86,8 +86,8 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
   - AI-for-society and IoT initiatives  
 
 ---
- ## 💡 Interests
-  
+
+<details> <summary style="font-size: 27px; font-weight: bold"> 💡 Interests</summary>
   - 🧠 Mastering Data Structures and Algorithms  
   - 🛠 DevOps (Docker, Jenkins, Terraform, AWS, Prometheus)  
   - 🌐 Full Stack Projects (React + Node)  
@@ -95,14 +95,16 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
    - 🔭 Building AI-powered & scalable systems (e.g., stampede detection with ML/IoT)  
   - ♟ Chess, 🧩 Math Olympiads, Debating & Reasoning  
   - 🎯Competitive programming & logic puzzles
+</details>
 
 ---
-  ## 📚 Currently Learning
 
+<details> <summary style="font-size: 27px; font-weight: bold"> 📚 Currently Learning</summary>
   - 🛠 Spring Boot & React for enterprise app development  
   - 📦 Docker, Kubernetes, Jenkins, AWS (DevOps pipeline)  
   - 📊 System Design & Low-Level Design fundamentals  
   - 🔐 Advanced Backend Concepts (RBAC, JWT, REST APIs) 
+  </details>
 
 ---
 
