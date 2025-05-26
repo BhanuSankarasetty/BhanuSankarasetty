@@ -76,14 +76,8 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 - 💼 Aspiring Software Development Engineer (SDE) & DevOps Enthusiast  
 - 🎯 **Career goal:**  
   - Secure a Software Development Engineer role in a top tech company (FAANG/Maanf)  
-  - Grow as a full-stack engineer with strong DevOps skills  
-
----
-
-## 🚀 Currently building:  
-- A stampede-detection AI system to prevent disasters in large crowds  
-- A DevOps-powered food delivery platform to empower home cooks
-
+  - Grow as a full-stack engineer with strong DevOps skills
+    
 ---
 
  ## 👯 **Open to collaborate on:**  
@@ -116,7 +110,7 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 ## What I'm Working On
 
 - 🔭 A **DevOps-powered home-cooked food delivery app** empowering women chefs 👩‍🍳  
-- Collaborating on open source and AI-for-society projects that make a real-world impact
+-  A stampede-detection AI system to prevent disasters in large crowds  
 
 ---
 <!-- Projects -->
