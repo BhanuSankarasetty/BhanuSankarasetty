@@ -256,8 +256,8 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 <!-- Philosophy -->
 ## ✨ Philosophy & Motto  
 > “**Write code as if the next person to maintain it is a violent psychopath who knows where you live.**” — John Woods  
-> "**I write code with clarity, efficiency, and impact, aiming to build solutions that empower and endure.**"
->⚡ Motto: _“Chasing money is to stop chasing for money”_ — I believe in financial freedom and purposeful growth  
+> "**I write code with clarity, efficiency, and impact, aiming to build solutions that empower and endure.**"<br>
+>⚡ Motto: “Chasing money is to stop chasing for money” — I believe in financial freedom and purposeful growth  
 > 🏆 Always aiming to learn, build, and contribute to tech that matters
 ---
 
