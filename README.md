@@ -103,7 +103,6 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
   - 📦 Docker, Kubernetes, Jenkins, AWS (DevOps pipeline)  
   - 📊 System Design & Low-Level Design fundamentals  
   - 🔐 Advanced Backend Concepts (RBAC, JWT, REST APIs) 
-  - ⚛️ **Frontend basics:** React.js, Tailwind CSS, TypeScript
 
 ---
 
