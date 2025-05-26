@@ -61,15 +61,14 @@ I build meaningful tech with heart and hands — to empower, to explore, and to 
 
 
  <summary style="font-size: 37px; font-weight: bold">🧭 About Me</summary>
+ <br>
+ <br>
 I’m Bhanu Murari — a technologist, a thinker, a builder. Born in Guntur, raised with curiosity, I believe in technology's power to heal, solve, and elevate humanity.
 <br>  
 I’m a passionate problem solver and software developer, actively building **real-world impactful tech** to improve society. Currently, I’m deepening my skills in backend development, DevOps, and scalable system design while tackling advanced DSA challenges.
 My journey from Mining Engineering to Code Engineering reflects my hunger to learn, adapt, and serve society with real impact.
-<br>
-<br>
-<br>
-<br>
 
+<br>
 <br>
 <br>
 
