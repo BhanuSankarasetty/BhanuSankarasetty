@@ -191,7 +191,7 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 - 🥇 Gold Medallist in Academics during Diploma at GIET University  
 - 💻 5-STAR Gold C++ coding badge on HackerRank  
 - 🌍 Secured Global Rank 1266th among 26k+ participants in LEETCODE Weekly Contest 450  
-- 🔥 100 days Badge and solved over 400 problems on LEETCODE  
+- 🔥 100 days Badge and solved over 500 problems on LEETCODE  
 
 </details>
 
@@ -209,7 +209,7 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 
 | Institution                              | Degree / Qualification               | Location                   | Year       | Score        |
 |-----------------------------------------|------------------------------------|----------------------------|------------|--------------|
-| **Lovely Professional University**      | B.Tech in Computer Science & Engg  | Jalandhar, Punjab          | 2023 – 2026 | CGPA: 7.67   |
+| **Lovely Professional University**      | B.Tech in Computer Science & Engg  | Jalandhar, Punjab          | 2023 – 2026 | CGPA: 7.98   |
 | **Godavari Institute of Engineering & Technology** | Diploma                      | Rajahmundry, Andhra Pradesh | 2020 – 2023 | 75%          |
 | **Bhavya DAV School**                    | Secondary Education                 | Tangeda, Andhra Pradesh     | 2011 – 2020 | 82%          |
 </details>
