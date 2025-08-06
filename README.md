@@ -66,7 +66,7 @@ I build meaningful tech with heart and hands — to empower, to explore, and to 
  <br>
 I’m Bhanu Murari — a technologist, a thinker, a builder. Born in Guntur, raised with curiosity, I believe in technology's power to heal, solve, and elevate humanity.
 <br>  
-I’m a passionate problem solver and software developer, actively building **real-world impactful tech** to improve society. Currently, I’m deepening my skills in backend development, DevOps, and scalable system design while tackling advanced DSA challenges.
+I’m a passionate problem solver and software developer, actively building real-world impactful tech to improve society. Currently, I’m deepening my skills in backend development, DevOps, and scalable system design while tackling advanced DSA challenges.
 My journey from Mining Engineering to Code Engineering reflects my hunger to learn, adapt, and serve society with real impact.
 
 <br>
@@ -78,29 +78,20 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 
 - 😄 Pronouns: He/Him  
 - 👨‍🎓 B.Tech CSE @ LPU | Diploma (GIET University)  
-- 🥇 Academic Gold Medalist (Diploma)| Competitive Coder & Problem Solver  
+- 🥇 Competitive Coder & Problem Solver  
 - 🌏 Based in India 🇮🇳 | Fluent in Telugu, Hindi & English  
 - 💼 Aspiring Software Development Engineer (SDE) & DevOps Enthusiast  
-- 🎯 **Career goal:**  
-  - Secure a Software Development Engineer role in a top tech company (FAANG/Maanf)  
-  - Grow as a full-stack engineer with strong DevOps skills
     
 ---
 
- ## 👯 **Open to collaborate on:**  
-  - Frontend & Backend Projects
-  - Open source projects with social impact  
-  - AI-for-society and IoT initiatives  
-
----
 
 <details> <summary style="font-size: 27px; font-weight: bold"> 💡 Interests</summary>
   
   - 🧠 Mastering Data Structures and Algorithms  
   - 🛠 DevOps (Docker, Jenkins, Terraform, AWS, Prometheus)  
   - 🌐 Full Stack Projects (React + Node)  
-  - 👨‍🍳 Social Impact Apps (e.g., Home Cook Food Delivery)
-   - 🔭 Building AI-powered & scalable systems (e.g., stampede detection with ML/IoT)  
+  - 👨‍🍳 Social Impact Apps 
+   - 🔭 Building AI-powered & scalable systems 
   - ♟ Chess, 🧩 Math Olympiads, Debating & Reasoning  
   - 🎯Competitive programming & logic puzzles
 </details>
@@ -119,7 +110,6 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 
 ## What I'm Working On
 
-- 🔭 A **DevOps-powered home-cooked food delivery app** empowering women chefs 👩‍🍳  
 -  A stampede-detection AI system to prevent disasters in large crowds  
 
 ---
@@ -127,9 +117,11 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 ## 💻 Featured Projects  
 | Project | Description | Tech Stack | Status |
 | :-----: | :---------: | :--------: | :----: |
-| **Home-Cooked Food Delivery App** | Empowering home chefs to reach customers digitally | React.js, Node.js, MongoDB, Docker | Live & Growing |
-| **Stampede Detection AI System (FYP)** | Real-time crowd analysis & emergency alert system | AI, IoT, OpenCV, Python | Final Year Project |
+| **Stampede Detection AI System** | Real-time crowd analysis & emergency alert system | AI, IoT, OpenCV, Python | Working |
+| **Find Your Product** | A local ecommerce  f empowering local sellers over quick commerce and e commerce | mern, mysql, system design | Final Year Project |
+| **Home-Cooked Food Delivery App** | Empowering home chefs to reach customers digitally | React.js, Node.js, MongoDB, Docker | Live |
 | **COVID-19 India Dashboard** | Interactive Tableau Dashboard for pandemic insights | Tableau, Data Visualization | Completed |
+| **Business Analysis India Dashboard** | Interactive Tableau Dashboard for business insights | Tableau, Data Visualization | Completed |
 | **DevSecOps CI/CD Pipeline** | Automated, secure deployment pipeline | Jenkins, Terraform, AWS | Coming Soon |
 
 ---
@@ -173,9 +165,6 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
   <img src="https://img.shields.io/badge/Responsive_Design-20c997?style=for-the-badge" alt="Responsive Web Design" />
 </p>
 
-## ⚡ Skill Meter 
-
-🎯 *Mastery isn’t a destination — it’s a rhythm. These bars pulse with growth.*
 
 ---
 ## 🧠 LeetCode Pulse
@@ -183,36 +172,6 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/BhanuMurari?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </div>
-
----
-<details> <summary style="font-size: 27px; font-weight: bold"> 🏆 Achievements</summary>
-
-- 🏆 Hackathon Finalist (2024) – AI for Public Safety  
-- 🥇 Gold Medallist in Academics during Diploma at GIET University  
-- 💻 5-STAR Gold C++ coding badge on HackerRank  
-- 🌍 Secured Global Rank 1266th among 26k+ participants in LEETCODE Weekly Contest 450  
-- 🔥 100 days Badge and solved over 500 problems on LEETCODE  
-
-</details>
-
----
-
-<!-- Fun Facts -->
-## 🎉 Fun Facts  
-- ♟️ Quick analytical thinker — competitive at **chess** and **coding contests**  
-- 🧠 Known for fast analytical thinking & problem-solving and Math Olympiad enthusiast  
-- 🎬 Sci-fi & fantasy fan — Interstellar, Harry Potter, Dark, etc.  
-- 🏏 Played cricket, kabaddi, volleyball at school/zonal level  
-
----
-<details> <summary style="font-size: 27px; font-weight: bold"> 🎓 Education</summary>
-
-| Institution                              | Degree / Qualification               | Location                   | Year       | Score        |
-|-----------------------------------------|------------------------------------|----------------------------|------------|--------------|
-| **Lovely Professional University**      | B.Tech in Computer Science & Engg  | Jalandhar, Punjab          | 2023 – 2026 | CGPA: 7.98   |
-| **Godavari Institute of Engineering & Technology** | Diploma                      | Rajahmundry, Andhra Pradesh | 2020 – 2023 | 75%          |
-| **Bhavya DAV School**                    | Secondary Education                 | Tangeda, Andhra Pradesh     | 2011 – 2020 | 82%          |
-</details>
 
 ---
 
@@ -236,6 +195,11 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 > "**I write code with clarity, efficiency, and impact, aiming to build solutions that empower and endure.**"<br>
 >⚡ Motto: “Chasing money is to stop chasing for money” — I believe in financial freedom and purposeful growth  
 > 🏆 Always aiming to learn, build, and contribute to tech that matters
+
+---
+## ⚡ Skill Meter 
+
+- 🎯 *Mastery isn’t a destination — it’s a rhythm. These bars pulse with growth.*
 ---
 
 
@@ -250,7 +214,7 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 
 <br>
 <br>
-<p align="leeft" >
+<p align="left" >
   <img src="https://komarev.com/ghpvc/?username=BhanuSankarasetty&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
