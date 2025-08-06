@@ -123,6 +123,8 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 | **COVID-19 India Dashboard** | Interactive Tableau Dashboard for pandemic insights | Tableau, Data Visualization | Completed |
 | **Business Analysis India Dashboard** | Interactive Tableau Dashboard for business insights | Tableau, Data Visualization | Completed |
 | **DevSecOps CI/CD Pipeline** | Automated, secure deployment pipeline | Jenkins, Terraform, AWS | Coming Soon |
+| **Mind-Refresher** | Automated music player, dynamic fetch with javaScript, client side | HTML5, CSS3, Javascript | Completed |
+| **UI-Development** | X formerly twitter UI clone with resposiveness | Responsive design, Tailwind CSS, HTML5 | Completed |
 
 ---
 
