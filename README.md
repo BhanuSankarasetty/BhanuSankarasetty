@@ -13,10 +13,6 @@ Welcome to my GitHub profile — where ideas turn into impactful code. I'm passi
 </p>
 <p align="center"><i>Crafting code for impact, solving problems with purpose.</i></p>
 
-<p align="center">
-  <em>"Not chasing success, but building value — and success will follow." 🌱</em>
-</p>
-
 <p align="center"><i>"In the realm of code, I seek the symphony of logic and the poetry of purpose."</i></p>
 
 <p  align="center" class="intro text-center">
@@ -28,7 +24,6 @@ Welcome to my GitHub profile — where ideas turn into impactful code. I'm passi
   Join me in this symphony of growth, learning, and creation.
 </p>
 
-<p align= "center">Passionate about solving problems, building real-world impactful tech, and growing every day 💪</p>
 <hr>
 
 
