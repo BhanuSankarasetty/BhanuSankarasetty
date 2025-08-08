@@ -120,6 +120,7 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 | **DevSecOps CI/CD Pipeline** | Automated, secure deployment pipeline | Jenkins, Terraform, AWS | Coming Soon |
 | **Mind-Refresher** | Automated music player, dynamic fetch with javaScript, client side | HTML5, CSS3, Javascript | Completed |
 | **UI-Development** | X formerly twitter UI clone with resposiveness | Responsive design, Tailwind CSS, HTML5 | Completed |
+| **URL-Shortener** | X formerly twitter UI clone with resposiveness | Responsive design, Tailwind CSS, HTML5 | Completed |
 
 ---
 
