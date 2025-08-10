@@ -76,20 +76,6 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 - 🥇 Competitive Coder & Problem Solver  
 - 🌏 Based in India 🇮🇳 | Fluent in Telugu, Hindi & English  
 - 💼 Aspiring Software Development Engineer (SDE) & DevOps Enthusiast  
-    
----
-
-
-<details> <summary style="font-size: 27px; font-weight: bold"> 💡 Interests</summary>
-  
-  - 🧠 Mastering Data Structures and Algorithms  
-  - 🛠 DevOps (Docker, Jenkins, Terraform, AWS, Prometheus)  
-  - 🌐 Full Stack Projects (React + Node)  
-  - 👨‍🍳 Social Impact Apps 
-   - 🔭 Building AI-powered & scalable systems 
-  - ♟ Chess, 🧩 Math Olympiads, Debating & Reasoning  
-  - 🎯Competitive programming & logic puzzles
-</details>
 
 ---
 
@@ -113,7 +99,7 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 | Project | Description | Tech Stack | Status |
 | :-----: | :---------: | :--------: | :----: |
 | **Stampede Detection AI System** | Real-time crowd analysis & emergency alert system | AI, IoT, OpenCV, Python | Working |
-| **Find Your Product** | A local ecommerce  f empowering local sellers over quick commerce and e commerce | mern, mysql, system design | Final Year Project |
+| **Find Your Product** | A local ecommerce  for empowering local sellers over quick commerce and e-commerce | mern, mysql, system design | Final Year Project |
 | **Home-Cooked Food Delivery App** | Empowering home chefs to reach customers digitally | React.js, Node.js, MongoDB, Docker | Live |
 | **COVID-19 India Dashboard** | Interactive Tableau Dashboard for pandemic insights | Tableau, Data Visualization | Completed |
 | **Business Analysis India Dashboard** | Interactive Tableau Dashboard for business insights | Tableau, Data Visualization | Completed |
