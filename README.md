@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Sankarasetty Bhanu Murari!  
 
 
-Welcome to my GitHub profile — where ideas turn into impactful code. I'm passionate about software engineering, problem-solving, and building projects that make a difference.
+Welcome to my GitHub profile, where ideas turn into impactful code. I'm passionate about software engineering, problem-solving, and building projects that make a difference.
 
 ---
 
