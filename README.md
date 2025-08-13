@@ -107,8 +107,8 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 | **Mind-Refresher** | Automated music player, dynamic fetch with javaScript, client side | HTML5, CSS3, Javascript | Completed |
 | **UI-Development** | X formerly twitter UI clone with resposiveness | Responsive design, Tailwind CSS, HTML5 | Completed |
 | **URL-Shortener** | X formerly twitter UI clone with resposiveness | Responsive design, Tailwind CSS, HTML5 | Completed |
-| **ToDo-App** | A todo-app for daily life task management | Responsive design, Tailwind CSS, HTML5, React, React Icons | Completed |
-| **Password-Manager** | A Password Store helpful for storing passwords securely | Responsive design, Tailwind CSS, HTML5, React, LordIcons | Completed |
+| **ToDo-App** | A todo-app for daily life task management | Responsive design, Tailwind CSS, HTML5, React, React Icons, vite | Completed |
+| **Password-Manager** | A Password Store helpful for storing passwords securely | Responsive design, Tailwind CSS, HTML5, React, LordIcons, vite | Completed |
 
 ---
 
