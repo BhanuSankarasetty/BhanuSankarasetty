@@ -106,7 +106,7 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 | **DevSecOps CI/CD Pipeline** | Automated, secure deployment pipeline | Jenkins, Terraform, AWS | Coming Soon |
 | **Mind-Refresher** | Automated music player, dynamic fetch with javaScript, client side | HTML5, CSS3, Javascript | Completed |
 | **UI-Development** | X formerly twitter UI clone with resposiveness | Responsive design, Tailwind CSS, HTML5 | Completed |
-| **URL-Shortener** | X formerly twitter UI clone with resposiveness | Responsive design, Tailwind CSS, HTML5 | Completed |
+| **URL-Shortener** | A URL Shortener Application helping users to avoid using lengthy URLs | Responsive design, Tailwind CSS, HTML5, REACT, NEXTJS, Dynamic Routes, MongoDB | Completed |
 | **ToDo-App** | A todo-app for daily life task management | Responsive design, Tailwind CSS, HTML5, React, React Icons, vite | Completed |
 | **Password-Manager** | A Password Store helpful for storing passwords securely | Responsive design, Tailwind CSS, HTML5, React, LordIcons, vite | Completed |
 
