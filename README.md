@@ -110,6 +110,7 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 | **ToDo-App** | A todo-app for daily life task management | Responsive design, Tailwind CSS, HTML5, React, React Icons, vite | Completed |
 | **Password-Manager** | A Password Store helpful for storing passwords securely | Responsive design, Tailwind CSS, HTML5, React, LordIcons, vite | Completed |
 | **BIT-Tree** | Applicattion for letting user create a single, shareable link for all their content. | NextJs, MongoDB, Tailwind CSS, ReactJs, Dynamic routes| Completed |
+| **Buy-Me-A-Chai** | Application for content creators helping them by adding interface for students to support | NextJs, MongoDB, Payment gateway, Next- Auth,  Tailwind CSS, ReactJs, Dynamic routes| Completed |
 
 ---
 
