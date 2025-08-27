@@ -191,7 +191,7 @@ My journey from Mining Engineering to Code Engineering reflects my hunger to lea
 ---
 
 
-## 🌐 How to Reach Me
+## 🌐 How to Reach Me 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhanumurari/"><img src="https://img.shields.io/badge/LinkedIn-Bhanu-blue?style=for-the-badge&logo=linkedin"></a>
