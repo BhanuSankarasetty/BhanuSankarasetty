@@ -1,6 +1,6 @@
 <div style="background-color:#0d1117; color:#c9d1d9; padding:20px; border-radius:10px">
 
-# 👋 Hi, I’m Sankarasetty Bhanu Murari!     
+# 👋 Hi, I’m Sankarasetty Bhanu Murari!      
 
 
 Welcome to my GitHub profile, where ideas turn into impactful code. I'm passionate about software engineering, problem-solving, and building projects that make a difference.
