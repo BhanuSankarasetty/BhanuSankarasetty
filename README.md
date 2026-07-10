@@ -81,9 +81,8 @@ I’m a passionate problem solver and software developer, actively building real
 <details> <summary style="font-size: 27px; font-weight: bold"> 📚 Currently Learning</summary>
   
   - 🛠 Spring Boot & React for enterprise app development  
-  - 📦 Docker, Kubernetes, Jenkins, AWS (DevOps pipeline)  
-  - 📊 System Design & Low-Level Design fundamentals  
-  - 🔐 Advanced Backend Concepts (RBAC, JWT, REST APIs) 
+  - 📊 System Design & Low-Level Design
+    
   </details>
 
 ---
